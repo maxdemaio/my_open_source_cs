@@ -1,5 +1,5 @@
 # my_open_source_cs
-My open source curriculum to learn CS. Brought over from [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) and personalized to show my progress.
+My open source curriculum to learn CS. Adapted from [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) and personalized to show my progress.
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
@@ -15,15 +15,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
-[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python)
+[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Web Programming with Python and JavaScript
 [Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
 [Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python
-
-###### Alternative
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Python 3 Programming Specialization](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython-3-programming) | University of Michigan | 5 months | 7 hours/week | self-paced | none
 
 ## Math
 
