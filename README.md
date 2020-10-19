@@ -15,7 +15,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
-[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Web Programming with Python and JavaScript
+[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Web Programming with Python and JavaScript | 🟧
 [Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
 [Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python
@@ -67,7 +67,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | 🟧
+[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | ✔️
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
 
 ## Supplementary Materials
