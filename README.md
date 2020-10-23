@@ -72,5 +72,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Supplementary Materials
 - [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/)
-- [Python OOP Series - Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc), [Python Data Structure Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV), [Python Algorithm Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH1K7oTJgIbWy6rCMc8-8Lfm)
+- [Python OOP Series - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc), [Python Data Structure Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV), [Python Algorithm Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH1K7oTJgIbWy6rCMc8-8Lfm)
 - [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), [CodingBat](https://codingbat.com/)
