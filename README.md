@@ -27,7 +27,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 Calculus 1 | URI | 12 weeks | 6-10 hours/week | / | Pre-calculus | ✔️
 Pre-calculus | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Algebra | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
-Introduction to Probability and Statistics | URI | 12 weeks | 5-7 hours/week | / | none | ✔️
+Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
 
 ## Data Science
 
