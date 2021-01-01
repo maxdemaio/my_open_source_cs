@@ -72,6 +72,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | ✔️
 
 ## Supplementary Materials
-- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Lightweight Django - Julia Elman & Mark Lavin](https://www.oreilly.com/library/view/lightweight-django/9781491946275/)
 - [Python OOP Series - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc), [Python Data Structure Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV), [Python Algorithm Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH1K7oTJgIbWy6rCMc8-8Lfm)
 - [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), [CodingBat](https://codingbat.com/)
