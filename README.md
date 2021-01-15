@@ -26,8 +26,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 Calculus 1 | URI | 12 weeks | 6-10 hours/week | / | Pre-calculus | ✔️
 Pre-calculus | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
+Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Algebra | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
-Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
+
 
 ## Data Science
 
@@ -76,7 +77,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 - Books: [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Lightweight Django - Julia Elman & Mark Lavin](https://www.oreilly.com/library/view/lightweight-django/9781491946275/), and [Learning React - Alex Banks & Eve Porcello](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/)
 
 
-- YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [LucidProgramming](https://www.youtube.com/channel/UCFxcvyt2Ucq5IL0_1Njzqlg), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), and [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [LucidProgramming](https://www.youtube.com/channel/UCFxcvyt2Ucq5IL0_1Njzqlg), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 
 - Websites: [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), and [CodingBat](https://codingbat.com/)
