@@ -72,6 +72,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | ✔️
 
 ## Supplementary Materials
-- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Lightweight Django - Julia Elman & Mark Lavin](https://www.oreilly.com/library/view/lightweight-django/9781491946275/)
-- [Python OOP Series - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc), [Python Data Structure Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV), [Python Algorithm Series - LucidProgramming](https://www.youtube.com/playlist?list=PL5tcWHG-UPH1K7oTJgIbWy6rCMc8-8Lfm)
-- [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), [CodingBat](https://codingbat.com/)
+
+- Books: [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Lightweight Django - Julia Elman & Mark Lavin](https://www.oreilly.com/library/view/lightweight-django/9781491946275/), and [Learning React - Alex Banks & Eve Porcello](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/)
+
+
+- YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [LucidProgramming](https://www.youtube.com/channel/UCFxcvyt2Ucq5IL0_1Njzqlg), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), and [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
+
+- Websites: [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), and [CodingBat](https://codingbat.com/)
