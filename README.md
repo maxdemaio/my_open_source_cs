@@ -1,7 +1,7 @@
 # my_open_source_cs
-My open source curriculum to learn CS. Adapted from [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) and personalized to show my progress.
+My open source curriculum to learn CS.
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 ## Computer Science Basics / Programming
 
