@@ -3,22 +3,14 @@ My open source curriculum to learn CS. Adapted from [open-source-cs-python](http
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
-## Computer Science Basics
+## Computer Science Basics / Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | ✔️
+[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | 🟧
 
-## Programming
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
-[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Web Programming with Python and JavaScript | ✔️
-[Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
-[Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data
-[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python
 
 ## Math
 
@@ -29,16 +21,6 @@ Pre-calculus | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Algebra | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
 
-
-## Data Science
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Data Science in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis) | University of Michigan | 3 weeks | 4-6 hours/week | self-paced | basic programming knowledge
-[Applied Plotting, Charting & Data Representation in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting) | University of Michigan | 4 weeks | 5-7 hours/week | self-paced | Introduction to Data Science in Python
-[Applied Machine Learning in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning) | University of Michigan | 6 weeks | 5-7 hours/week | self-paced | Applied Plotting, Charting & Data Representation in Python
-[Applied Text Mining in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Machine Learning in Python
-[Applied Social Network Analysis in Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Text Mining in Python
 
 ## Systems
 
