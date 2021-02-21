@@ -62,3 +62,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 
 - Websites: [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), and [CodingBat](https://codingbat.com/)
+
+- YouTube Series: [HTML and CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) (Net Ninja), [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) (Codebasics), [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) (Net Ninja), 
