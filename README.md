@@ -55,7 +55,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Supplementary Materials
 
-- Books/Literature: [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Django documentation](https://docs.djangoproject.com/), [Flask documentation](https://flask.palletsprojects.com/), and [React documentation](https://reactjs.org/)
+- Books/Literature: [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/), [Flask documentation](https://flask.palletsprojects.com/), [Django documentation](https://docs.djangoproject.com/), and [React documentation](https://reactjs.org/)
 
 
 - YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
