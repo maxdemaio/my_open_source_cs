@@ -43,7 +43,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge | 🟧
+[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge | 🟧 (Studying)
 
 
 ## Unix
