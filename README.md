@@ -16,6 +16,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 Calculus 1 | URI | 12 weeks | 6-10 hours/week | / | Pre-calculus | ✔️
+[Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | Pre-calculus | ✔️
 Pre-calculus | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
 Algebra | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
