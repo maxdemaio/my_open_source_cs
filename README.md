@@ -63,7 +63,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 - YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
-- Podcasts: [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/) and [CodeNewbie](https://www.codenewbie.org/podcast)
+- Podcasts: [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/), [Lex Fridman Podcast](https://lexfridman.com/podcast/), and [CodeNewbie](https://www.codenewbie.org/podcast)
 
 - Networking: [Twitter](https://twitter.com/) and [Meetup.com](https://www.meetup.com/)
 
