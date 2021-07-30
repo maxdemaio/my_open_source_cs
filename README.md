@@ -58,7 +58,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 ## Supplementary Materials
 
-- Books/Literature/E-reading: [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/), [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), [LeetCode Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/), Cracking the Coding Interview (Book/YT series), [Hired in Tech - System Design](https://www.hiredintech.com/system-design), [Big-O Algorithm Cheat Sheet](https://www.bigocheatsheet.com/), and [Hacker News](https://news.ycombinator.com/)
+- Books/Literature/E-reading: [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/), [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), [LeetCode Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/), [Hired in Tech - System Design](https://www.hiredintech.com/system-design), [Big-O Algorithm Cheat Sheet](https://www.bigocheatsheet.com/), and [Hacker News](https://news.ycombinator.com/)
 
 
 - YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
