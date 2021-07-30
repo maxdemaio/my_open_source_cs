@@ -1,7 +1,7 @@
 # my_open_source_cs
 My free open source curriculum to learn computer science.
 
-This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate computer science degree, minus general education. Helpful resources have also been added for supplementary learning. Please feel free to star/copy this repository and personalize it to your own learning path.
+This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate computer science degree, minus general education. Helpful resources have also been added for supplementary learning. Please feel free to star/fork this repository and personalize it to your own learning path.
 
 ## Computer Science Basics / Programming
 
