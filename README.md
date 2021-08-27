@@ -67,7 +67,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 - Networking: [Twitter](https://twitter.com/) and [Meetup.com](https://www.meetup.com/)
 
-- Jobs: [LinkedIn](https://www.linkedin.com/), [TripleByte](https://triplebyte.com/), [AngelList](https://angel.co/), [WhiteTruffle](https://www.whitetruffle.com/), and [SmartHires](https://www.smarthires.io/)
+- Jobs: [LinkedIn](https://www.linkedin.com/), [TripleByte](https://triplebyte.com/), [AngelList](https://angel.co/), [WhiteTruffle](https://www.whitetruffle.com/), [SmartHires](https://www.smarthires.io/), and company websites.
 
 - Problem Solving Websites: [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), and [CodingBat](https://codingbat.com/). All my problem set solutions are located in my [practice problem repository](https://github.com/maxwelldemaio/practiceProblems).
 
