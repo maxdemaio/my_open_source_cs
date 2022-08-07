@@ -1,65 +1,60 @@
 # my_open_source_cs
+
 My free open source curriculum to learn computer science. Although it's not the path of least resistance, learning by doing is super effective: write code, make mistakes, learn from them, and most importantly enjoy the process.
 
 This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate computer science degree, minus general education. Helpful resources have also been added for supplementary learning. Please feel free to star/fork this repository and personalize it to your own learning path.
 
 ## Computer Science Basics / Programming
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none | ✔️
-[Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science | ✔️
-
+| Courses                                                                                                    | School  | Duration |      Effort      | Frequency  |       Prerequisites       | Status |
+| :--------------------------------------------------------------------------------------------------------- | :-----: | :------: | :--------------: | :--------: | :-----------------------: | :----: |
+| [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced |           none            |   ✔️   |
+| [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)                           | Harvard | 12 weeks | 10-20 hours/week | self-paced | Intro to Computer Science |   ✔️   |
 
 ## Math
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-Calculus 1 | URI | 12 weeks | 6-10 hours/week | / | Pre-calculus | ✔️
-[Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | Pre-calculus | 
-Pre-calculus | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
-Introduction to Probability and Statistics | URI | 12 weeks | 6-10 hours/week | / | Algebra | ✔️
-Algebra | URI | 12 weeks | 6-10 hours/week | / | none | ✔️
-
+| Courses                                                                              |  School   | Duration |     Effort      | Frequency  | Prerequisites | Status |
+| :----------------------------------------------------------------------------------- | :-------: | :------: | :-------------: | :--------: | :-----------: | :----: |
+| Calculus 1                                                                           |    URI    | 12 weeks | 6-10 hours/week |     /      | Pre-calculus  |   ✔️   |
+| [Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | Pre-calculus  |
+| Pre-calculus                                                                         |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |   ✔️   |
+| Introduction to Probability and Statistics                                           |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |   ✔️   |
+| Algebra                                                                              |    URI    | 12 weeks | 6-10 hours/week |     /      |     none      |   ✔️   |
 
 ## Systems
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge | ✔️
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
-[Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
-
+| Courses                                                                                                                                                                                              |             School             | Duration |      Effort      |   Frequency   |                             Prerequisites                             | Status |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------: | :------: | :--------------: | :-----------: | :-------------------------------------------------------------------: | :----: |
+| [Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks  |   5 hours/week   | twice a month |                      basic programming knowledge                      |   ✔️   |
+| [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2)  | Hebrew University of Jerusalem | 6 weeks  | 10-15 hours/week | once a month  |  Build a Modern Computer from First Principles: From Nand to Tetris   |
+| [Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)                                                                                                       |          Georgia Tech          | 8 weeks  |  5-8 hours/week  |  self-paced   | Build a Modern Computer from First Principles: From Nand to Tetris II |
 
 ## Theory
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
-[Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
-[Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
-
+| Courses                                                                                                                                                                                           |  School   | Duration |     Effort      |  Frequency   |                   Prerequisites                    | Status |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------: | :------: | :-------------: | :----------: | :------------------------------------------------: | :----: |
+| [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week  | once a month |        Calculus 1A (all), basic programming        |
+| [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1)                                              | Princeton | 6 weeks  | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines |
+| [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2)                                             | Princeton | 6 weeks  | 6-12 hours/week | once a month |                 Algorithms, Part I                 |
 
 ## Applications
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers |
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge | ✔️
-[Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data |
-
+| Courses                                                                                                                                            |         School         | Duration |     Effort     |   Frequency   |                                  Prerequisites                                   | Status |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------: | :------: | :------------: | :-----------: | :------------------------------------------------------------------------------: | :----: |
+| [Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) |        Stanford        | 11 weeks | 5-7 hours/week | twice a month |                    Linear Algebra - Foundations to Frontiers                     |
+| [Database Management Essentials](https://www.coursera.org/learn/database-management)                                                               | University of Colorado | 7 weeks  | 4-6 hours/week | twice a month |                         basic programming & CS knowledge                         |   ✔️   |
+| [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)            |        Stanford        | 7 weeks  |  5 hours/week  | once a month  | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data |
 
 ## Unix
 
-Courses | School | Duration | Effort | Frequency | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none | ✔️
-[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | Johns Hopkins University | 4 weeks | 4 hours/week | once a month | none | ✔️
+| Courses                                                                                                                                  |          School          | Duration |    Effort    |  Frequency   | Prerequisites | Status |
+| :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------: | :----------: | :----------: | :-----------: | :----: |
+| [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics)                                                           |         Udacity          |  1 week  | 5 hours/week |  self-paced  |     none      |   ✔️   |
+| [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | Johns Hopkins University | 4 weeks  | 4 hours/week | once a month |     none      |   ✔️   |
 
 ## Supplementary Materials
 
 - Books/Literature/E-reading: [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/), [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), [Hired in Tech - System Design](https://www.hiredintech.com/system-design), [Big-O Algorithm Cheat Sheet](https://www.bigocheatsheet.com/), and [Hacker News](https://news.ycombinator.com/).
-
 
 - YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Amigoscode](https://www.youtube.com/c/amigoscode), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 
@@ -71,4 +66,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Status
 
 - Problem Solving Websites: I mainly use [LeetCode](https://leetcode.com/). All my problem set solutions are located in my [practice problem repository](https://github.com/maxdemaio/leetcode). Highly recommend [LeetCode's Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/). They have series on top easy, medium, and hard problems.
 
-- YouTube Series/Videos: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko), [HTML and CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) (Net Ninja), [Python Basics](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) (Corey Schafer), [Python Object Oriented Programming](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) (Corey Schafer), [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) (Codebasics), [Python Data Structures](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV) (LucidProgramming), [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech With Tim), [Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) (Pretty Printed), [CS Fundamentals](https://www.youtube.com/playlist?list=PLMCXHnjXnTnszR6YSo1tQK2BMr15cC9Zh) (Gaurav Sen), [Modern JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) (Net Ninja), [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) (Net Ninja), [JavaScript Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ) (FreeCodeCamp), [NoSQL Basics](https://www.youtube.com/watch?v=qI_g07C_Q5I) (Martin Fowler), [Docker Zero to Hero](https://www.youtube.com/watch?v=3c-iBn73dDE) (TechWorld with Nana), [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) (sudoCODE), [Low Level Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k) (sudoCODE), [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (3Blue1Brown), [Simple Explanation of Maven and pom.xml](https://www.youtube.com/watch?v=793-O43F-ng) (Brandan Jones), [Computer Networking](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO) (thenewboston), [Software Unit Testing and Integration Testing](https://www.youtube.com/watch?v=Geq60OVyBPg) (Amigoscode), [Web Application Architecture](https://youtu.be/sDlCSIDwpDs) (Forrest Knight), and [CS50 Shorts](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW) (CS50).
+- YouTube Series/Videos: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko), [HTML and CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) (Net Ninja), [Python Basics](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) (Corey Schafer), [Python Object Oriented Programming](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) (Corey Schafer), [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) (Codebasics), [Python Data Structures](https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV) (LucidProgramming), [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech With Tim), [Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) (Pretty Printed), [CS Fundamentals](https://www.youtube.com/playlist?list=PLMCXHnjXnTnszR6YSo1tQK2BMr15cC9Zh) (Gaurav Sen), [Modern JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) (Net Ninja), [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) (Net Ninja), [JavaScript Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ) (FreeCodeCamp), [NoSQL Basics](https://www.youtube.com/watch?v=qI_g07C_Q5I) (Martin Fowler), [Docker and Kubernetes Tutorial](https://youtu.be/bhBSlnQcq2k) (Amigoscode and TechWorld with Nana), [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) (sudoCODE), [Low Level Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k) (sudoCODE), [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (3Blue1Brown), [Simple Explanation of Maven and pom.xml](https://www.youtube.com/watch?v=793-O43F-ng) (Brandan Jones), [Computer Networking](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO) (thenewboston), [Software Unit Testing and Integration Testing](https://www.youtube.com/watch?v=Geq60OVyBPg) (Amigoscode), [Web Application Architecture](https://youtu.be/sDlCSIDwpDs) (Forrest Knight), and [CS50 Shorts](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW) (CS50).
