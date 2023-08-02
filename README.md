@@ -56,6 +56,8 @@ This is a curated list of free courses from reputable universities that satisfy 
 | [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics)                                                           |         Udacity          |  1 week  | 5 hours/week |  self-paced  |     none      |   ✔️   |
 | [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | Johns Hopkins University | 4 weeks  | 4 hours/week | once a month |     none      |   ✔️   |
 
+---
+
 ## Supplementary Materials
 
 Before approaching any open source curriculum, please give these a watch/read: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko), [How I would learn to code (If I could start over)](https://www.youtube.com/watch?v=9s29LKfEFjQ) (Jason Goodison), and [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/).
