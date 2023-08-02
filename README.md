@@ -1,4 +1,4 @@
-# my_open_source_cs
+# my_open_source_cs 📚:octocat:
 
 My free open source curriculum to learn computer science. Although it's not the path of least resistance, learning by doing is super effective: write code, make mistakes, learn from them, and most importantly enjoy the process.
 
@@ -56,7 +56,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 Before approaching any open source curriculum, please give these a watch/read: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko), [How I would learn to code (If I could start over)](https://www.youtube.com/watch?v=9s29LKfEFjQ) (Jason Goodison), and [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/).
 
-- YouTube Channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Amigoscode](https://www.youtube.com/c/amigoscode), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
+- YouTube channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Amigoscode](https://www.youtube.com/c/amigoscode), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 
 - Podcasts: [The freeCodeCamp Podcast](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=d31984a3c47a47be), [Ladybug Podcast](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em?si=1c7dc805390a4d52), [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=7d80fe5b067b4179), [Indie Hackers](https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC?si=1ef45f88964846be), [The StackOverflow Podcast](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=c2abe8cf700a4739), and [CodeNewbie](https://www.codenewbie.org/podcast).
 
@@ -64,4 +64,4 @@ Before approaching any open source curriculum, please give these a watch/read: [
 
 - Jobs: [LinkedIn](https://www.linkedin.com/), [TripleByte](https://triplebyte.com/), [AngelList](https://angel.co/), [WhiteTruffle](https://www.whitetruffle.com/), [SmartHires](https://www.smarthires.io/), referrals from friends, and company websites.
 
-- Problem Solving Websites: I mainly use [LeetCode](https://leetcode.com/). All my problem set solutions are located in my [practice problem repository](https://github.com/maxdemaio/leetcode). Highly recommend [NeetCode](https://neetcode.io/) which curates and categorizes popular LeetCode problems.
+- Problem solving websites: I mainly use [LeetCode](https://leetcode.com/). All my problem set solutions are located in my [practice problem repository](https://github.com/maxdemaio/leetcode). Highly recommend [NeetCode](https://neetcode.io/) which curates and categorizes popular LeetCode problems.
