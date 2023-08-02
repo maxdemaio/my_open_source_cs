@@ -1,8 +1,12 @@
-# my_open_source_cs 📚:octocat:
+# my_open_source_cs
+
+📚:octocat:
 
 My free open source curriculum to learn computer science. Although it's not the path of least resistance, learning by doing is super effective: write code, make mistakes, learn from them, and most importantly enjoy the process.
 
 This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate computer science degree, minus general education. Helpful resources have also been added for supplementary learning. Please feel free to star/fork this repository and personalize it to your own learning path.
+
+---
 
 ## Computer Science Basics / Programming
 
