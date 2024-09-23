@@ -4,6 +4,12 @@
 
 My free open source curriculum to learn computer science. Although it's not the path of least resistance, learning by doing is super effective: write code, make mistakes, learn from them, and most importantly enjoy the process.
 
+> Not having heard something is not as good as having heard it; having
+heard it is not as good as having seen it; having seen it is not as good as knowing it; knowing
+it is not as good as putting it into practice.
+> 
+> Xunzi
+
 This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate computer science degree, minus general education. Helpful resources have also been added for supplementary learning. Please feel free to star/fork this repository and personalize it to your own learning path.
 
 ---
