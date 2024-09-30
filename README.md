@@ -1,6 +1,6 @@
 # my_open_source_cs
 
-<img src="images/github-logo-octocat-1.jpg" width = 250 align="right">
+<img src="images/github-logo-octocat-1.jpg" width = 100 align="right">
 
 My free open source curriculum to learn computer science. Although it's not the path of least resistance, learning by doing is super effective: write code, make mistakes, learn from them, and most importantly enjoy the process.
 
