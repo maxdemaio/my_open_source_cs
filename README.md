@@ -66,7 +66,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 ## Supplementary Materials
 
-Before approaching any open source curriculum, please give these a watch/read: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko), [How I would learn to code (If I could start over)](https://www.youtube.com/watch?v=9s29LKfEFjQ) (Jason Goodison), and [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/).
+Before approaching any open source curriculum, please give these a watch/read: [Self Taught Programmers: Advice, Challenges, and Why We Need Them](https://www.youtube.com/watch?v=j38_oXALe4U) (mayuko) and [How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/).
 
 - YouTube channels: [Corey Schafer](https://www.youtube.com/user/schafer5), [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg), [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg), [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ), [Amigoscode](https://www.youtube.com/c/amigoscode), [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg), and [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 
