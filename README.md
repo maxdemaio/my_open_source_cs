@@ -74,6 +74,6 @@ Before approaching any open source curriculum, please give these a watch/read: [
 
 - Networking: [Twitter](https://twitter.com/) and [Meetup.com](https://www.meetup.com/).
 
-- Jobs: [LinkedIn](https://www.linkedin.com/), [TripleByte](https://triplebyte.com/), [AngelList](https://angel.co/), [WhiteTruffle](https://www.whitetruffle.com/), [SmartHires](https://www.smarthires.io/), referrals from friends, and company websites.
+- Jobs: [LinkedIn](https://www.linkedin.com/), various job search websites, referrals from friends, and company websites.
 
 - Problem solving websites: I mainly use [LeetCode](https://leetcode.com/). All my problem set solutions are located in my [practice problem repository](https://github.com/maxdemaio/leetcode). Highly recommend [NeetCode](https://neetcode.io/) which curates and categorizes popular LeetCode problems.
